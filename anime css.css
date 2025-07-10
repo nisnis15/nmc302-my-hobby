@@ -12,7 +12,7 @@
 
 body {background-color:#A6A6A6;  overflow: hidden}
 
-#background-anime img {position: absolute; pointer-events: none; z-index: -1; background-attachment: fixed; background-size: cover; width: 1600px; opacity: 0.7}           
+#background-anime img {position: absolute; pointer-events: none; z-index: -1; background-attachment: fixed; background-size: cover; width: 100%; opacity: 0.7}           
 #background-anime-review img {position: absolute; pointer-events: none; z-index: -1; background-attachment: fixed; background-size: cover; width: 1600px; } 
 
 #container {background-color:#1D1A1A;
