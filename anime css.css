@@ -161,7 +161,6 @@ body.freeze-all #container {
 #arrow-right {
   position: absolute;
   margin-top: 120px;
-  right: 10px;
   transform: translateY(-50%);
   z-index: 10;}
 
